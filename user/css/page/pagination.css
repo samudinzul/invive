@@ -1,0 +1,30 @@
+
+.paging-nav {
+  text-align: center;
+  padding-top: 2px;
+  width:60%;
+  font-family: Arial, sans-serif;
+  float: right;
+}
+
+.paging-nav a {
+  text-decoration: none;
+  display: inline-block;
+  padding: 3px 7px;
+  background:#E6A900;
+  color:white;
+  border-radius: 3px;
+    margin: 1px;
+  float:left;
+}
+
+.paging-nav .selected-page {
+  background: #AEC1Ba;
+    color:black;
+  font-weight: bold;
+}
+
+#tableData {
+  width: 100%;
+  font-family: Arial, sans-serif;
+}
